@@ -66,9 +66,13 @@ Untuk dapat mencari jumlah packet bisa menggunakan filter expression berikut
 
 `ip.dst == 184.87.193.88`
 
-[Hasil Screenshoot No 7]
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%207.2.png)
 
 Dari gambar diatas, didapatkan jumlah packet sebanyak 6.
+
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%203.3.png)
+
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%207.2.png)
 
 ## Soal 8
 Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)
