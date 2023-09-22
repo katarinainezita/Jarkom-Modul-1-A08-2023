@@ -40,8 +40,8 @@ Berdasarkan gambar diatas, dapat dilakukan perhitungan secara manual dan didapat
 
 b. Dari gambar diatas juga dapat dilihat bahwa protokol port yang digunakan adalah protocol `udp`.
 
-![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%203.2.jpg)
-![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%203.3.png)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/d504c4a5-6c71-45d1-a0e1-79f6e428b27c)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/aee3fc34-fbc3-4e45-8f8a-a78fb8aed068)
 
 ## Soal 4
 Berapa nilai checksum yang didapat dari header pada paket nomor 130?
@@ -66,13 +66,13 @@ Untuk dapat mencari jumlah packet bisa menggunakan filter expression berikut
 
 `ip.dst == 184.87.193.88`
 
-![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%207.2.png)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/15a4c150-a012-4265-9d05-b34e3961e6af)
 
 Dari gambar diatas, didapatkan jumlah packet sebanyak 6.
 
-![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%207.png)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/491035a8-47b0-41b4-b341-17510a923491)
 
-![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%207.1.png)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/dac3faeb-9035-4b15-947e-bdc3fa9b59f8)
 
 ## Soal 8
 Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)
@@ -82,7 +82,11 @@ Untuk mengambil semua protokol paket yang menuju port 80, dapat menggunakan filt
 
 `tcp.dstport == 80 || udp.dstport == 80`
 
-[Hasil Screenshoot no 8]
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/2ab3ea6c-f64f-4bf8-9ae0-1676b4cff545)
+
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/67a2ccf8-de09-46df-beed-3c2f45b3ed99)
+
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/75f69241-dd27-4b9a-9c44-567ef5809cae)
 
 ## Soal 9
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
@@ -92,7 +96,9 @@ Untuk melakukan filter seperti perintah diatas, maka bisa menggunakan kueri seba
 
 `ip.src == 10.51.40.1 && ip.dst != 10.39.55.34`
 
-[Hasil Screenshoot No 9]
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/b7f039a3-8e7d-4b5e-a35b-b67e381c4315)
+
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/assets/109232320/5e5b86b2-0597-4398-badb-f1425aeeba2b)
 
 ## Soal 10
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
