@@ -40,6 +40,8 @@ Berdasarkan gambar diatas, dapat dilakukan perhitungan secara manual dan didapat
 
 b. Dari gambar diatas juga dapat dilihat bahwa protokol port yang digunakan adalah protocol `udp`.
 
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%203.2.jpg)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%203.3.png)
 
 ## Soal 4
 Berapa nilai checksum yang didapat dari header pada paket nomor 130?
