@@ -70,7 +70,7 @@ Untuk dapat mencari jumlah packet bisa menggunakan filter expression berikut
 
 Dari gambar diatas, didapatkan jumlah packet sebanyak 6.
 
-![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%203.3.png)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%207.png)
 
 ![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/main/images/soal%207.2.png)
 
