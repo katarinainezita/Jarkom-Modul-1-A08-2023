@@ -34,7 +34,7 @@ a. Mencari IP address yang menggunakan port `3702` menggunakan filter expression
 
 `ip.addr == 239.255.255.250 and udp.port == 3702`
 
-![Screenshoot](https://drive.google.com/file/d/10RbygJbiOZH58X6poWgdf1syG6poqGO4/view?usp=sharing)
+![App Screenshot](https://github.com/katarinainezita/Jarkom-Modul-1-A08-2023/blob/b006a0a7cd3f8e95dcc478bb8857c1767ef3e3b5/images/soal%203.png)
 
 Berdasarkan gambar diatas, dapat dilakukan perhitungan secara manual dan didapatkan jumlah dari paket yang tercapture sebanyak 21.
 
